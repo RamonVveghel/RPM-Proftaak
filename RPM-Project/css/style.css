@@ -2,3 +2,8 @@
 {
     border: 2px solid green;
 }
+
+.container-fluid a img{
+    width: 100px;
+    height: 75px;
+}

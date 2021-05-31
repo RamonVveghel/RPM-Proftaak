@@ -10,6 +10,4 @@
     <title>RPM</title>
 </head>
 <body>
-    <h1>My first heading</h1>
-</body>
-</html>
+    <h1></h1>
