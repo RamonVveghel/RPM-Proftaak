@@ -1,29 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
-    <script src="bootstrap/js/bootstrap.js"></script>
-    <title>RPM</title>
-</head>
-<body>
-    <h1>My first heading</h1>
+<?php
+  // Get the HTML head section
+  include("inc/header.php");
 
-    <div class="container">
-  <div class="row">
-    <div class="col-sm">
-      One of three columns
-    </div>
-    <div class="col-sm">
-      One of three columns
-    </div>
-    <div class="col-sm">
-      One of three columns
-    </div>
-  </div>
-</div>
-</body>
-</html>
+  include("inc/navbar.php");
+?>
+
+<?php
+  // Get the HTML footer section
+  include("inc/footer.php");
+?>
