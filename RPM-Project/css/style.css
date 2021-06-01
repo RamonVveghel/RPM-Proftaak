@@ -7,3 +7,17 @@
     width: 150px;
     height: auto;
 }
+
+.bg-customnavbar
+{
+    background-color: #919191 !important;
+}
+
+.bg-footer{
+    background-color: #575757 !important;
+}
+
+.container-fluid img{
+    width: 250px;
+    height: auto;
+}
