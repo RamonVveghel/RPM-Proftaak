@@ -1,7 +1,4 @@
-.col-sm
-{
-    border: 2px solid green;
-}
+
 
 .container-fluid a img{
     width: 150px;
@@ -20,4 +17,16 @@
 .container-fluid img{
     width: 250px;
     height: auto;
+}
+
+.main{
+    width: 100%;
+}
+
+.custom-container{
+    border: 2px solid #e3e3e3;
+}
+
+.recipe-container{
+    border: 1px solid black;
 }
