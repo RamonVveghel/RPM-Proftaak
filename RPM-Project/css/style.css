@@ -21,3 +21,19 @@
     width: 250px;
     height: auto;
 }
+
+.main
+{
+    width: 100%;
+}
+
+.custom-container
+{
+    border: 2px solid black;
+
+}
+
+.custom-row
+{
+    border: 200px solid #e3e3e3; 
+}
