@@ -34,3 +34,25 @@
 {
     border: 200px solid #e3e3e3; 
 }
+
+.btn-recepten{
+    height: auto;
+    width: 10%;
+    float: right;
+}
+
+.container-ontbijt{
+    background-color: #A9EBE0;
+}
+.container-lunch{
+    background-color: #B6DBF7;
+}
+.container-diner{
+    background-color: #FFE1A6;
+}
+.container-dessert{
+    background-color: #AD7A7A;
+}
+.container-snacks{
+    background-color: #ABEAB0;
+}
