@@ -24,3 +24,4 @@ function DbConnect()
     
 }
 
+    //fetch the result to an associative array
